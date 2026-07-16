@@ -1,7 +1,12 @@
 
 # Calculator
-
 A simple and responsive Calculator application built with **HTML**, **CSS**, and **JavaScript**. This project performs basic arithmetic operations through a clean and easy-to-use interface.
+
+
+live demo:
+calculator-app-three-ochre-48.vercel.app
+
+
 
 ## Features
 
